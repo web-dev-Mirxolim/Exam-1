@@ -1,0 +1,507 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.quti{
+    margin-left: 800px;
+    margin-top: -28px;
+}
+.quti2{
+    margin-left: 900px;
+    margin-top: -19px;
+}
+.quti3{
+    margin-left: 1050px;
+    margin-top: -17px;
+}
+.quti4{
+    margin-left: 1150px;
+    margin-top: -17px;
+}
+.quti5{
+    margin-left: 1300px;
+    margin-top: -18px;
+}
+.quti6{
+    margin-top: 50px;
+}
+.quti7{
+    width: 250px;
+    margin-left: 200px;
+}
+.quti8{
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+main{
+    margin: 0 2000px;
+}
+.button{
+    color: white;
+    width: 150px;
+    border: 1px solid #458FF6;
+    border-radius: 30px;
+    margin-left: 200px;
+    margin-top: 30px;
+    height: 40px;
+    background-color: #458FF6;
+}
+.quti9{ 
+    margin-left: 680px;
+    margin-top: -330px;
+}
+.quti10{
+    text-align: center;
+}
+.chiziq{
+    width: 40px;
+    border: 2px solid black;
+    background-color: black;
+    margin-left: 740px;
+    margin-top: 10px;
+}
+.quti11{
+    width: 750px;
+    text-align: center;
+    margin-left: 370px;
+    margin-top: 30px;
+}
+.bg_element{
+    margin-top: -180px;
+}
+.qutichami{
+    position: absolute;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin-top: -100px;
+    background-color: white;
+    margin-left: 180px;
+    margin-top: -730px;
+}
+.lupa{
+    margin-left: -650px;
+    position: absolute;
+    margin-top: 90px;
+}
+.t1{
+    margin-left: 200px;
+    margin-top: -600px;
+    position: absolute;
+}
+.p1{
+    width: 240px;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -550px;
+} 
+.quticha{
+    position: absolute;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin-top: -100px;
+    background-color: white;
+    margin-left: 550px;
+    margin-top: -730px;
+}  
+.dori{
+    margin-left: -270px;
+    position: absolute;
+    margin-top: 90px;
+}
+.t2{
+    margin-left: 580px;
+    margin-top: -600px;
+    position: absolute;
+}
+.p2{
+    width: 240px;
+    position: absolute;
+    margin-left: 580px;
+    margin-top: -550px;
+} 
+.xat{
+    margin-top: 80px;
+    margin-left: 150px;
+    position: absolute;
+}
+.t3{
+    margin-left: 1000px;
+    margin-top: -600px;
+    position: absolute;
+}
+.p3{
+    width: 240px;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -550px;
+} 
+.quticha2{
+    position: absolute;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin-top: -100px;
+    background-color: white;
+    margin-left: 180px;
+    margin-top: -400px;
+}  
+.dok{
+    margin-left: -650px;
+    position: absolute;
+    margin-top: 420px;
+}
+.t4{
+    margin-left: 200px;
+    margin-top: -270px;
+    position: absolute;
+}
+.p4{
+    width: 240px;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -220px;
+} 
+.quticha3{
+    position: absolute;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin-top: -100px;
+    background-color: white;
+    margin-left: 550px;
+    margin-top: -400px;
+}  
+.sum{
+    margin-left: -270px;
+    position: absolute;
+    margin-top: 420px;
+}
+.t5{
+    margin-left: 580px;
+    margin-top: -270px;
+    position: absolute;
+}
+.p5{
+    width: 240px;
+    position: absolute;
+    margin-left: 580px;
+    margin-top: -220px;
+} 
+.dok2{
+    margin-left: 150px;
+    position: absolute;
+    margin-top: 420px;
+}
+.t6{
+    margin-left: 1000px;
+    margin-top: -270px;
+    position: absolute;
+}
+.p6{
+    width: 240px;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -220px;
+} 
+.btn2{
+    background-color: white;
+    width: 130px;
+    height: 40px;
+    border-radius: 30px;
+    border: 1px solid #458FF6;
+    color: #458FF6;
+    margin-left: -150px;
+}
+.no1{
+    margin-top: 1000px;
+    margin-left: -700px;
+    position: absolute;
+}
+.t10{
+    width: 300px;
+    margin-left: 900px;
+    margin-top: 270px;
+}
+.chi{
+    width: 60px;
+    height: 3px;
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 900px;
+    margin-top: 30px;
+}
+.t11{
+    width: 240px;
+    margin-top: 15px;
+    margin-left: 900px;
+}
+.btn3{
+    background-color: white;
+    width: 130px;
+    height: 40px;
+    border-radius: 30px;
+    border: 1px solid #458FF6;
+    color: #458FF6;
+    margin-left: 900px;
+    margin-top: 30px;
+}
+.t12{
+    width: 200px;
+    margin-left: 250px;
+    margin-top: 300px;
+}
+.chi2{
+    width: 60px;
+    height: 3px;
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.t13{
+    width: 280px;
+    margin-top: 15px;
+    margin-left: 250px;
+}
+.btn4{
+    background-color: white;
+    width: 130px;
+    height: 40px;
+    border-radius: 30px;
+    border: 1px solid #458FF6;
+    color: #458FF6;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.no3{
+    margin-top: -300px;
+    position: absolute;
+    margin-left: 400px;
+}
+.bac2{
+    width: 1000px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 200px;
+    height: 350px;
+    background-color: #67C3F3;
+}
+.t14{
+    color: white;
+    margin-left: 580px;
+    margin-top: -320px;
+}
+.qora{
+    margin-left: 400px;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.t15{
+    color: white;
+    margin-left: 550px;
+    margin-top: -100px;
+}
+.t16{
+    color: white;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+.t17{
+    width: 300px;
+    color: white;
+    margin-left: 900px;
+    margin-top: -60px;
+}
+.t18{
+    margin-top: 150px;
+    text-align: center;
+}
+.chch{
+    width: 60px;
+    height: 4px;
+    margin: 10px auto;
+    background-color: black;
+}
+
+
+
+
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: #67C3F3;
+    margin-top: 150px;
+}
+.logo2{
+    margin-left: 200px;
+    margin-top: 120px;
+}
+.t19{
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 10px;
+    color: white;
+}
+.t20{
+    color: white;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.t21{
+    color: white;
+    margin-left: 650px;
+    margin-top: -160px;
+}
+.t22{
+    color: white;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+.t23{
+    color: white;
+    margin-left: 650px;
+    margin-top: 17px;
+}
+.t24{
+    color: white;
+    margin-left: 650px;
+    margin-top: 20px;
+}
+.t25{
+    color: white;
+    margin-left: 650px;
+    margin-top: 18px;
+}
+.chap{
+    margin-left: 600px;
+    margin-top: 80px;
+    position: absolute;
+}
+.t26{
+    color: white;
+    margin-left: 900px;
+    position: absolute;
+    margin-top: -160px;
+}
+.t27{
+    color: white;
+    margin-left: 900px;
+    margin-top: -125px;
+}
+.t28{
+    color: white;
+    margin-left: 900px;
+    margin-top: 10px;
+}
+.t29{
+    color: white;
+    margin-left: 900px;
+    margin-top: 20px;
+}
+.t30{
+    color: white;
+    margin-left: 900px;
+    margin-top: 25px;
+}
+.t31{
+    color: white;
+    margin-left: 1100px;
+    position: absolute;
+    margin-top: -160px;
+}
+.t32{
+    color: white;
+    margin-left: 1100px;
+    margin-top: -130px;
+}
+.t33{
+    color: white;
+    margin-left: 1100px;
+    margin-top: 10px;
+}
+.t34{
+    color: white;
+    margin-left: 1100px;
+    margin-top: 20px;
+}
+.t35{
+    color: white;
+    margin-left: 1100px;
+    margin-top: 25px;
+}
+.img1{
+    margin-left: 150px;
+}
+.t36{
+    width: 200px;
+    margin-left: 200px;
+}
+.tttt{
+    width: 230px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.imgg1{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.img2{
+    position: absolute;
+    margin-top: -353px;
+    margin-left: 300px;
+}
+.z1{
+    width: 230px;
+    margin-left: 640px;
+    margin-top: -135px;
+    position: absolute;
+}
+.z2{
+    margin-top: -80px;
+    position: absolute;
+    width: 240px;
+    margin-left: 640px;
+}
+.z4{
+    margin-left: 350px;
+}
+.img3{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: -350px;
+}
+.z5{
+    width: 240px;
+    margin-left: 1100px;
+    margin-top: -135px;
+}
+.z6{
+    width: 240px;
+    margin-left: 1100px;
+    margin-top: 10px;
+}
+.re2{
+    margin-left: 1100px;
+    margin-top: 10px;
+}
+.bbtn{
+    width: 135px;
+    height: 40px;
+    border: 1px solid #458FF6;
+    border-radius: 40px;
+    margin-left: -480px;
+    margin-top: 50px;
+    position: absolute;
+    background-color: white;
+}
+.logo2{
+    background-color: #458FF6;
+}

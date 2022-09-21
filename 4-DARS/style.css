@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h2{
+    font-family: "text";
+}
+@font-face{
+    font-family: "text";
+    src: url(./Silkscreen/Silkscreen-Bold.ttf);
+}
